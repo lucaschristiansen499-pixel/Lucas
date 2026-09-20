@@ -15,6 +15,7 @@ Reference materials and a small assistive tool built to support Lucas at school,
   python3 support-overview/build_lucas_doc.py
   ```
 - **`docs/lucas_support_tools_build_requirements.md`** — the original requirements/spec this project was built against.
+- **`study-cards/`** — study cards generated from real AI Pocket lecture transcripts, in the same format the Notecard tool produces. See `study-cards/README.md` for the index.
 
 ## Note on sensitive content
 
