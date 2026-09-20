@@ -6,5 +6,6 @@ Study cards produced from AI Pocket lecture transcripts, formatted the same way 
 |---|---|---|
 | 2026-09 | Religion | [2026-09-religion-pharisees-sadducees.md](2026-09-religion-pharisees-sadducees.md) |
 | 2026-09 | Algebra | [2026-09-algebra-properties-and-expressions.md](2026-09-algebra-properties-and-expressions.md) |
+| 2026-09 | Algebra | [2026-09-algebra-compound-inequalities.md](2026-09-algebra-compound-inequalities.md) |
 
 Add new cards here as more transcripts come in — same filename pattern: `YYYY-MM-subject-short-topic.md`.
