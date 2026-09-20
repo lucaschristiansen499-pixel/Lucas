@@ -8,6 +8,7 @@ Reference materials and a small assistive tool built to support Lucas at school,
   - *Lecture notes*: turns an AI Pocket transcript/summary into a structured study card (TL;DR, terms, numbered steps, worked examples, watch-outs, a homework checklist, and a flagged "unclear — don't guess" section).
   - *Break it down*: turns an assignment or brain-dump into a short, checkable list of concrete steps.
   - Live artifact: https://claude.ai/artifact/W9gNFyg4QHN7y6i1Mq3QUf (private — share with Lucas's account before he can use it independently).
+- **`notecard/build_quickguide.py`** — generates `Lucas_Notecard_QuickGuide.docx`, a printable one-page quick-reference for Lucas covering both modes step by step. Regenerate with `python3 notecard/build_quickguide.py`.
 - **`support-overview/build_lucas_doc.py`** — generates `Lucas_Support_Overview.docx`, a working reference covering background, the neuropsychological evaluation, current Marmion Academy accommodations and gaps, the in-progress AI Pocket accommodation request, the PlusPortals→Google Calendar reminder setup, this toolkit, and open items. Regenerate after editing with:
   ```
   pip install python-docx
